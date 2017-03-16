@@ -9,4 +9,4 @@ Criado por :
 Mariane Mazurega(https://github.com/Siannodel)
 Igor Franca (https://github.com/Horaddrim)
 
-©2017 - Licenciado pela GPL versão 3 ou superior.
+©2017 - Licenciado sob os termos da licença GPL versao 3 ou posterior.
